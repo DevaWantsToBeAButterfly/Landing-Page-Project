@@ -101,18 +101,18 @@ button {
 .information ul {
     display: flex;
     flex-flow: row wrap;
-    gap: 50px;
+    gap: 75px;
 }
 
 .information ul li {
-    width: 175px;
+    width: 250px;
 }
 
 .information ul li img {
     border: 3px solid #3882F6;
     border-radius: 10%;
-    width: 175px;
-    height: 175px;
+    width: 250px;
+    height: 250px;
 }
 
 .information ul li p {
@@ -129,7 +129,7 @@ button {
     align-items: center;
     padding: 0 10vw;
     margin-bottom: 100px;
-    width: 800px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -156,7 +156,7 @@ button {
 }
 
 .call-to-action {
-    width: 800px;
+    width: 1200px;
     margin: 0 auto;
     display: flex;
     align-items: center;
